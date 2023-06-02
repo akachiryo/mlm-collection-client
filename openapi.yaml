@@ -1,0 +1,15 @@
+openapi: "3.0.3"
+
+info:
+  title: "MLMcollection API"
+  description: "マルチ商法コレクションのモックサーバーです"
+  version: "1.0.0"
+
+servers:
+- url: "http://localhost:3000"
+
+tags:
+  - name: "users"
+    description: "ユーザーに関するAPI"
+  - name: "business"
+    description: " MLM企業に関するAPI"

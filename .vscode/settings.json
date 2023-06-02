@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "swaggerviewer:openapi": "file:///Users/apple/main/MLMcollection/mlm-collection-client/openapi.yaml"
+  }
+}
